@@ -325,7 +325,7 @@ h4 {
   max-width: 100%;
 }
 .copy span.light {
-  color: #7f8c8d;
+  color: #f6d132;
 }
 .copy span.info {
   font-size: 0.85em;
@@ -848,8 +848,8 @@ a.click {
   opacity: 0.5;
 }
 .copy a.btn {
-  background-color: #5392c0;
-  border-bottom: 2px solid #3c78a5;
+  background-color: #09abed;
+  border-bottom: 2px solid #0788bd;
   border-radius: 4px;
   color: #fff;
   display: inline-block;
@@ -863,13 +863,13 @@ a.click {
   min-width: 220px;
 }
 .copy a.btn:hover {
-  background-color: #609ac5;
+  background-color: #14b5f6;
   transform: translate(0, 1px);
   transition: none;
 }
 .copy a.btn:active,
 .copy a.btn.click {
-  background-color: #3c78a5;
+  background-color: #0788bd;
   transform: translate(0, 2px);
 }
 .copy a.btn span {
